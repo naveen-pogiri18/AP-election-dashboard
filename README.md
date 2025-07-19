@@ -74,5 +74,25 @@ Official Election Commission of India, news portals, public datasets, and scrape
 - 🗺️ **Regional Trends**: Identifies swing regions and party bastions  
 - 📊 **Public Awareness**: Increases transparency and civic literacy
 
-# Screen shots
--
+# 🖼️ Dashboard Preview
+
+## 📌 Page 1: Overview Page  
+Provides a summary of total seats, vote shares, turnout %, and overall winning party.
+
+![Overview Page](https://github.com/naveen-pogiri18/AP-election-dashboard/blob/main/Screenshot%202025-07-19%20181655.png)
+
+---
+
+## 📌 Page 2: Party-wise Performance  
+Displays detailed insights into how each party performed across the state, including number of seats and vote percentages.
+
+![Party-wise Performance](https://github.com/naveen-pogiri18/AP-election-dashboard/blob/main/Screenshot%202025-07-19%20181711.png)
+
+---
+
+## 📌 Page 3: Voter Demographics  
+Shows gender-wise voter turnout and compares district-wise voter behavior.
+
+![Voter Demographics](https://github.com/naveen-pogiri18/AP-election-dashboard/blob/main/Screenshot%202025-07-19%20181743.png)
+
+
